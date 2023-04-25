@@ -1,0 +1,4 @@
+id|Buyer=id;fullName;checkNumber;phone|Toy=id;name;price
+1|1;Ivanov Ivan Ivanovich;23574;+79554156584|5;Машинка на радиоуправлении FAIRYMARY Перевертыш-вездеход;15.0
+2|2;Sidorov Sergey;23686;+79553556585|1;Конструктор LEGO DUPLO Town Грузовой поезд;10000.0
+3|5;Pavlov Dmitriy Alekseevich;23346;+79999999871|9;Трактор фермера Kiddieland;2200.0
